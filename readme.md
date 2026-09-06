@@ -1,4 +1,4 @@
-# Task Timer — что изменилось
+# Task Timer
 
 ## 1. Win+C / SIGTERM теперь завершает процесс сразу
 
